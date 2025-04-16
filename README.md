@@ -10,6 +10,11 @@ I’m a final year Computer Engineering student with a passion for software deve
 
 **Pronouns:** She/Her
 
+### 👩🏻‍💻 Web Developer | Software Engineer | AI Enthusiast
+
+📊🎨 Growing through real-world projects and creative problem-solving.  
+💻 Always open to collaboration on meaningful tech projects!
+
 ## 🔧 Skills
 - **Programming Languages:** Python, C/C++
 - **Tools & Technologies:** Visual Studio Code, Git, AWS, MySQL

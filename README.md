@@ -16,7 +16,13 @@ I’m a final year Computer Engineering student with a passion for software deve
 - **Web Development:** HTML, CSS, JavaScript
 
 ## 📂 Projects
-- Please refer to my repositories and my portfolio website.
+- **Cardia: Ai Diabetes and Heart Disease Management System (work in progress)**
+- **Ai Diagnosis and Doctor Recommendation System**
+- **Driver Drowsiness Detection System**
+- **Automatic Parking Management System**
+- **Natural Disaster Alert**
+
+Please refer to my repositories and my portfolio website for more details on these projects.
 
 ## 🎓 Education
 - **BE in Computer Engineering** - St. Francis Institute of Technology (July 2021 – May 2025)

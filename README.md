@@ -30,8 +30,7 @@ Please refer to my repositories and my portfolio website for more details on the
 - **Secondary School Education (SSC)** - Sardar Vallabhai Patel Vidyalaya (June 2009 – March 2019)
 
 ## 🏆 Certifications
-- **Introduction to Cloud Computing**
-- **Web Development**
+[**List of Certifications**](https://drive.google.com/drive/folders/1WM0Efm76nNKQgckjcBcR9ExK-X1JuWQJ?usp=sharing)
 
 ## 📫 Contact Me
 - **Email:** saileenf6@gmail.com
